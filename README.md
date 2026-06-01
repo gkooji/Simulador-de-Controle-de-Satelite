@@ -68,4 +68,4 @@ satellite-control-simulator/
 └── README.md
 
 Integrantes
-Nome Completo: Guilherme Kooji RM570541
+Nome Completo: Guilherme Kooji
